@@ -322,6 +322,6 @@ ______
 
 **A self-driving lab for the directed evolution of mRNA lipid nanoparticles**
 
-Evan Collins, Rajith S. Manan, Samuel Detmer, Till Mscientist, Easwer Raman, Richard Zhu, Srinivas Balagopal, Yanshu Shi, Jungyong Ji, Akash Gupta, Yizong Hu, Suthathip Trongjit, Wontaek Chung, Haseeb Mughal, Jacob Witten, Anna Lapteva, Ashwin Pasupathy, Wonpil Im, Robert Langer, Daniel G. Anderson
+Evan Collins, Rajith S. Manan, Samuel Detmer, Till Muser, Easwer Raman, Richard Zhu, Srinivas Balagopal, Yanshu Shi, Jungyong Ji, Akash Gupta, Yizong Hu, Suthathip Trongjit, Wontaek Chung, Haseeb Mughal, Jacob Witten, Anna Lapteva, Ashwin Pasupathy, Wonpil Im, Robert Langer, Daniel G. Anderson
 
 *Under review*
